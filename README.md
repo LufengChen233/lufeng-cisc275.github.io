@@ -1,5 +1,5 @@
 ## Welcome to My Pages
 
-Host: Lufeng Chen   
+Lufeng Chen   
 
 Mail: chenlf@udel.edu
