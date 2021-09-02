@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
 You can use the [editor on GitHub](https://github.com/LufengChen233/lufeng-cisc275.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
