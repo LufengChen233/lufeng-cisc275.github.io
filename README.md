@@ -6,10 +6,10 @@ Mail: chenlf@udel.edu
 
 ## Change Log
 
-Week2 2021.9.7(Tue): I made up my own portfolio, and I am planning to add Change Log and TODO list to my page.
+• Week2 2021.9.7(Tue): I made up my own portfolio, and I am planning to add Change Log and TODO list to my page.
 
 ## TODO
 
-Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script.
+• Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script.
 
 Hi~ o(*￣▽￣*)ブ
