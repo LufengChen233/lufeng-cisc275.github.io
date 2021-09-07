@@ -1,5 +1,9 @@
-## Welcome to My Pages
-
+<!DOCTYPE html>
+<html>
+<head>
+<title> ## Welcome to My Pages  </title>
+</head>
+<body>  
 Lufeng Chen   
 
 Mail: chenlf@udel.edu
@@ -13,3 +17,5 @@ Mail: chenlf@udel.edu
 • Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script.
 
 Hi~ o(*￣▽￣*)ブ
+</body>
+</html>
