@@ -4,8 +4,12 @@ Lufeng Chen
 
 Mail: chenlf@udel.edu
 
-## My project
+## Change Log
 
-Coming soon
+Week2 2021.9.7(Tue): I made up my own portfolio, and I am planning to add Change Log and TODO list to my page.
+
+## TODO
+
+Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script.
 
 Hi~ o(*￣▽￣*)ブ
