@@ -22,7 +22,7 @@
   <h1>## TODO</h1>
   
   <ul>
-  <listyle="color:red;"> Week2 2021.9.16(Thur):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
+  <li style="color:red;"> Week2 2021.9.16(Thur):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
   </ul>
   
   <h1>HTML Links</h1>
