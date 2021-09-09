@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -7,7 +8,7 @@
 </head>
 
   <body>  
-  <h1>Information</h1>
+  <h1 style="color:blue;">Information</h1>
   
   <div>Lufeng Chen</div>   
   <div>Mail: chenlf@udel.edu</div>
@@ -15,13 +16,13 @@
   <h1>## Change Log</h1>
   
   <ul>
-  <li>Week2 2021.9.9(Tue): Adding headings, paragraphs, links, images and lists</li>
+  <li style="color:red;">Week2 2021.9.9(Tue): Adding headings, paragraphs, links, images and lists</li>
   </ul>
 
   <h1>## TODO</h1>
   
   <ul>
-  <li> Week2 2021.9.16(Thur):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
+  <listyle="color:red;"> Week2 2021.9.16(Thur):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
   </ul>
   
   <h1>HTML Links</h1>
