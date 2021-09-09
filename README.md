@@ -5,8 +5,10 @@
   <title> My Page</title>
 
 </head>
-<body>  
+
+  <body>  
   <h1>Information</h1>
+  
   <div>Lufeng Chen</div>   
   <div>Mail: chenlf@udel.edu</div>
   
@@ -19,7 +21,7 @@
   <h1>## TODO</h1>
   
   <ul>
-  <li> Week2 2021.9.16(Tue):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
+  <li> Week2 2021.9.16(Thur):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
   </ul>
   
   <h1>HTML Links</h1>
@@ -33,4 +35,5 @@
   <img src="https://github.com/LufengChen233/lufeng-cisc275.github.io/blob/main/My%20cat/QingQing.png" alt="My cat" width="124" height="268">
   
 </body>
+
 </html>
