@@ -4,9 +4,8 @@
 <title> Page Title  </title>
 </head>
 <body>  
-Lufeng Chen   
-
-Mail: chenlf@udel.edu
+<i1>Lufeng Chen<i2>   
+<i1>Mail: chenlf@udel.edu<i2>
 
   <h1>## Change Log</h1>
 
