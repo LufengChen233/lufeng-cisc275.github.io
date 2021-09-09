@@ -17,7 +17,7 @@
   <h2>## TODO</h2>
   
   <ul>
-  <li> Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script.</li>
+  <li> Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script. Adding buttons, advanced images, and modified the text.</li>
   </ul>
   
   <h3>HTML Links</h3>
