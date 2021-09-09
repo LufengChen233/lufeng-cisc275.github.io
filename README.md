@@ -26,7 +26,7 @@
   <a href="https://www.w3schools.com/html/">HTML Tutorial</a>
   
   <h4>My cat</h4>
-  <p>Have you seen this cat? If not, you've seen it now. Isn't that cute?</p>
+  <p>Have you seen this cat? If not, you've seen it now. She's cute!</p>
   
   <img src="https://github.com/LufengChen233/lufeng-cisc275.github.io/blob/main/My%20cat/QingQing.png" alt="My cat" width="124" height="268">
   
