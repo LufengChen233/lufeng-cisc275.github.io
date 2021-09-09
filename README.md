@@ -1,9 +1,10 @@
 <html>
-  <title> My Page</title>
+
 <head>
-  
+
+  <title> My Page</title>
 <p1>Lufeng Chen</p1>   
-<p1>Mail: chenlf@udel.edu</p2>
+<p1>Mail: chenlf@udel.edu</p1>
 
 </head>
 <body>  
