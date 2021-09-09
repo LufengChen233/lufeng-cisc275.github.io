@@ -1,4 +1,5 @@
 <html>
+<title> My Page</title?
 <head>
   
 <p1>Lufeng Chen</p1>   
@@ -16,7 +17,7 @@
   <h1>## TODO</h1>
   
   <ul>
-  <li> Week2 2021.9.7(Tue):  Learning some basic idea about HTML;CSS;JAVA Script. Adding buttons, advanced images, and modified the text.</li>
+  <li> Week2 2021.9.7(Tue):  Adding buttons, advanced images, and modified the text; </li>
   </ul>
   
   <h1>HTML Links</h1>
