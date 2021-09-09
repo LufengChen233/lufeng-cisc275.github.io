@@ -8,7 +8,7 @@
   
   <h1>## Change Log</h1>
 
-<p1>• Week2 2021.9.7(Tue): I made up my own portfolio, and I am planning to add Change Log and TODO list to my page.</p1>
+<p1>• Week2 2021.9.7(Tue): I made up my own portfolio, and I am planning to add Change Log and TODO list to my page by using html.</p1>
 
   <h2>## TODO</h2>
 
