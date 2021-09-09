@@ -3,11 +3,12 @@
 <head>
 
   <title> My Page</title>
-  <p1>Lufeng Chen</p1>   
-  <p1>Mail: chenlf@udel.edu</p1>
 
 </head>
 <body>  
+  <h1>Information</h1>
+  <div>Lufeng Chen</div>   
+  <div>Mail: chenlf@udel.edu</div>
   
   <h1>## Change Log</h1>
   
