@@ -3,8 +3,8 @@
 <head>
 
   <title> My Page</title>
-<p1>Lufeng Chen</p1>   
-<p1>Mail: chenlf@udel.edu</p1>
+  <p1>Lufeng Chen</p1>   
+  <p1>Mail: chenlf@udel.edu</p1>
 
 </head>
 <body>  
@@ -12,13 +12,13 @@
   <h1>## Change Log</h1>
   
   <ul>
-    <li>Week2 2021.9.7(Tue): Adding headings, paragraphs, links, images and lists</li>
+  <li>Week2 2021.9.9(Tue): Adding headings, paragraphs, links, images and lists</li>
   </ul>
 
   <h1>## TODO</h1>
   
   <ul>
-  <li> Week2 2021.9.7(Tue):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
+  <li> Week2 2021.9.16(Tue):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
   </ul>
   
   <h1>HTML Links</h1>
