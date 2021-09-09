@@ -11,13 +11,13 @@
   <h1>## Change Log</h1>
   
   <ul>
-    <li>Week2 2021.9.7(Tue): I made up my own portfolio, and I am planning to add Change Log and TODO list to my page by using html.  Adding headings, paragraphs, links, images and lists</li>
+    <li>Week2 2021.9.7(Tue): Adding headings, paragraphs, links, images and lists</li>
   </ul>
 
   <h1>## TODO</h1>
   
   <ul>
-  <li> Week2 2021.9.7(Tue):  Adding buttons, advanced images, and modified the text; </li>
+  <li> Week2 2021.9.7(Tue):  Adding buttons, advanced images, and modified the text;Synchronize local files and web pages </li>
   </ul>
   
   <h1>HTML Links</h1>
