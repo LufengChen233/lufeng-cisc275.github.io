@@ -28,7 +28,7 @@
   <h4>My cat</h4>
   <p>Have you seen this cat? If not, you've seen it now. Isn't that cute?</p>
   
-  <img src="QingQing.png" alt="QingQing.com" width="104" height="142">
+  <img src="QingQing.png" alt="My cat" width="104" height="142">
   
 </body>
 </html>
