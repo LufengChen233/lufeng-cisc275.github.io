@@ -12,7 +12,7 @@
   
   <h1>My new page Link</h1>
   
-  <a href="https://lufengchen233.github.io/LufengChen.github.io/">HTML Tutorial</a>
+  <a href="https://lufengchen233.github.io/LufengChen.github.io/">My page</a>
   
   <h1>HTML Links</h1>
   
