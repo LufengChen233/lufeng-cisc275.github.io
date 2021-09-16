@@ -33,7 +33,7 @@
   <h1>My cat</h1>
   <p>Have you seen this cat? If not, you've seen it now. She's cute!</p>
   
-  <img src="My cat/QingQing.gif" alt="QingQing" style="width:124px;height:268px">
+  <img src="My cat/QingQing.png" alt="QingQing" style="width:124px;height:268px">
   
 </body>
 
