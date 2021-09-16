@@ -3,37 +3,112 @@
 
 <head>
 
-  <title> My Page</title>
+    <script type="text/javascript" src="scripts.js">
+	</script>
+	<link rel="stylesheet" href="styles.css">
+
+    <title> My Page</title>
+
+ <style>
+      
+     body {background-color: lightblue;}
+
+     h2 {color: rgb(238, 150, 18); text-align: center;}
+  
+     p1 {text-decoration: line-through;}
+
+    div {
+        border: 1px solid black;
+        background-color: lightblue;
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+    }
+  
+     div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 300px;
+    }
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+    div.desc {
+         padding: 15px;
+        text-align: center;
+    }
+
+ </style>
+
 
 </head>
 
-  <body>  
-  <h1 style="color:blue;">Welcome to My Page</h1>
+<body>  
   
-  <div>Lufeng Chen</div>   
-  <div>Mail: chenlf@udel.edu</div>
+    <h2>Welcome to My Page</h2>
   
-  <h1>## Change Log</h1>
-  
-  <ul>
-  <li style="color:red;">Week2 2021.9.9(Tue): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</li>
-  </ul>
+    <div>
+        <h1>Lufeng Chen</h1>    
+        <h1>Mail: chenlf@udel.edu</h1>      
+        <h1p><a href="https://github.com/LufengChen233/lufeng-cisc275.github.io/tree/main">My Github</a></h1>
+    </div>
 
-  <h1>## TODO</h1>
+    <h1>Change Log</h1>
   
-  <ul>
-  <li style="color:red;">Week2 2021.9.16(Thur): Adding buttons (javascript), advanced images, and modified the text(css) </li>
-  </ul>
+        <ul>
+        <li style="color:red;"><p1>Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</p1></li>
+        <li style="color:red;">Week3 2021.9.16(Thur): Adding basic background, Modified the text, adding advanced images, adding buttons, adding line through the words</li>
+        </ul>
+
+    <h1>TODO</h1>
   
-  <h1>HTML Links</h1>
+        <ul>
+         <li style="color:red;">Week3 2021.9.16(Thur): Adding buttons (javascript), advanced images, and modified the text(css) </li>
+        <li style="color:red;">Week4 2021.9.16(Thur): Adding layout and navigation bar, advanced background, animaiton, button that do something</li>
+        </ul>
   
-  <p>The link of tutorial I am using:</p>
-  <a href="https://www.w3schools.com/html/">HTML Tutorial</a>
+    <h1>HTML Links</h1>
   
-  <h1>My cat</h1>
-  <p>Have you seen this cat? If not, you've seen it now. She's cute!</p>
+     <p>The link of tutorial I am using:</p>
+     <a href="https://www.w3schools.com/html/">HTML Tutorial</a>
   
-  <img src="My cat/QingQing.gif" alt="QingQing" style="width:124px;height:268px">
+    <h1>My cat</h1>
+  
+     <div class="gallery">
+         <img src="My cat/QingQing.png" alt="QingQing" style="width:124px;height:268px">
+         <div class="desc">Cat and Carrot</div>
+     </div>
+
+     <div class="gallery">
+        <img src="My cat/q1.jpg" alt="q1" style="width:268px;height:268px">
+        <div class="desc">When I first picked her up</div>
+    </div>
+
+    <div class="gallery">
+        <img src="My cat/q2.jpg" alt="q2" style="width:150px;height:200px">
+        <div class="desc">When I first picked her up</div>
+    </div>
+
+    <div class="gallery">
+        <img src="My cat/q3.jpg" alt="q3" style="width:187px;height:105px">
+        <div class="desc">After the cat is neutered</div>
+    </div>
+
+    <div class="gallery">
+        <img src="My cat/q4.jpg" alt="q4" style="width:200px;height:150px">
+        <div class="desc">And got angry.</div>
+    </div>
+
+    <div1><button type="button" autofocus onclick="alert('Nothing happened.')">Do not Press Me!</button></div1>
   
 </body>
 
