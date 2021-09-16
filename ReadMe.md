@@ -2,6 +2,23 @@
 <html>
 
 <head>
+<style>
+  h1 {
+  text-decoration: overline;
+}
+
+h2 {
+  text-decoration: line-through;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+h4 {
+  text-decoration: underline overline;
+}
+</style>
 </head>
 
   <body>  
@@ -13,7 +30,7 @@
   <h1>## Change Log</h1>
   
   <ul>
-  <li style="color:red;" text-decoration: line-through>Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</li>
+  <li style="color:red;"><h2>Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</h2></li>
   <li style="color:red;">Week3 2021.9.16(Thur): Creat a new website, Add link to new website, add advanced images to new website, modifiedthe text, add button</li>
   </ul>
 
