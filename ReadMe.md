@@ -12,8 +12,9 @@
   
   <h1>My new page Link</h1>
   
-  <h1>HTML Links</h1>
   <a href="https://lufengchen233.github.io/LufengChen.github.io/">HTML Tutorial</a>
+  
+  <h1>HTML Links</h1>
   
   <p>The link of tutorial I am using:</p>
   <a href="https://www.w3schools.com/html/">HTML Tutorial</a>
