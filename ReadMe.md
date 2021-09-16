@@ -13,7 +13,7 @@
   <h1>## Change Log</h1>
   
   <ul>
-  <li style="color:red style=text-decoration: line-through;">Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</li>
+  <li style="color:red;" style=text-decoration: line-through>Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</li>
   <li style="color:red text-decoration: line-through;">Week3 2021.9.16(Thur): Creat a new website, Add link to new website, add advanced images to new website, modifiedthe text, add button</li>
   </ul>
 
