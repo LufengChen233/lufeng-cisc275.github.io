@@ -10,20 +10,10 @@
   <div>Lufeng Chen</div>   
   <div>Mail: chenlf@udel.edu</div>
   
-  <h1>## Change Log</h1>
-  
-  <ul>
-  <li style="color:black;">Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</li>
-  <li style="color:red;">Week3 2021.9.16(Thur): Creat a new website, Add link to new website, add advanced images to new website, modifiedthe text, add button</li>
-  </ul>
-
-  <h1>## TODO</h1>
-  
-  <ul>
-  <li style="color:red;">Week2 2021.9.16(Thur): Adding buttons (javascript), advanced images, and modified the text(css) </li>
-  </ul>
+  <h1>My new page Link</h1>
   
   <h1>HTML Links</h1>
+  <a href="https://lufengchen233.github.io/LufengChen.github.io/">HTML Tutorial</a>
   
   <p>The link of tutorial I am using:</p>
   <a href="https://www.w3schools.com/html/">HTML Tutorial</a>
