@@ -2,34 +2,100 @@
 <html>
 
 <head>
-
+    <meta charset="UTF-8">
     <script type="text/javascript" src="scripts.js">
 	</script>
 	<link rel="stylesheet" href="styles.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> My Page</title>
 
  <style>
-      
-     body {background-color: lightblue;}
-
-     h2 {color: rgb(238, 150, 18); text-align: center;}
-  
-     p1 {text-decoration: line-through;}
-
-    div {
-        border: 1px solid black;
-        background-color: lightblue;
-        padding-top: 50px;
-        padding-right: 30px;
-        padding-bottom: 50px;
-        padding-left: 80px;
+    
+    body {
+            margin: 0;
     }
-  
-     div.gallery {
-        margin: 5px;
-        border: 1px solid #ccc;
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    .header {
+        background-color: #eefca4;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .topnav {
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    .topnav a {
         float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+
+    .leftcolumn {
+        float: left;
+        width: 25%;
+        background-color: #f1f1f1;
+        padding-left: 20px;
+    }
+
+    .rightcolumn {
+        float: left;
+        width: 75%;
+        background-color: #f1f1f1;
+        padding-left: 20px;
+    }
+
+    .card {
+        background-color: white;
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    @media screen and (max-width: 800px) {
+        .leftcolumn, .rightcolumn {   
+        width: 100%;
+        padding: 0;
+        }
+    }
+
+    @media screen and (max-width: 400px) {
+        .topnav a {
+        float: none;
+        width: 100%;
+        }
+    }
+
+    h2 {color: rgb(238, 150, 18); text-align: center;}
+  
+    p1 {text-decoration: line-through;}
+  
+    div.gallery {
+        margin: 1px;
+        border: 1px solid #ccc;
+        float: none;
         width: 300px;
     }
 
@@ -43,9 +109,29 @@
     }
 
     div.desc {
-         padding: 15px;
-        text-align: center;
+         padding: 20px;
+        text-align: left;
     }
+
+    /*
+    .bg{
+        position:fixed;
+        top: 0;
+        left: 0;
+        width:100%;
+        height:100%;
+        min-width: 1000px;
+        z-index:-10;
+        zoom: 1;
+        background-color: #fff;
+        background: url(Background/Catbackground.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        background-position: center 0;
+    }
+*/
 
  </style>
 
@@ -53,66 +139,58 @@
 </head>
 
 <body>  
-  
-    <h2>Welcome to My Page</h2>
-  
-    <div>
-        <h1>Lufeng Chen</h1>    
-        <h1>Mail: chenlf@udel.edu</h1>      
-        <h1p><a href="https://github.com/LufengChen233/lufeng-cisc275.github.io/tree/main">My Github</a></h1>
+    
+    <div class="header"><h1>Welcome to My Page</h1></div>
+
+    <div class="topnav">
+        <a href="https://github.com/LufengChen233/lufeng-cisc275.github.io/tree/main">Github</a>
+        <a href="https://www.w3schools.com/html/">HTML</a>
     </div>
 
-    <h1>Change Log</h1>
-  
-        <ul>
-        <li style="color:red;"><p1>Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</p1></li>
-        <li style="color:red;">Week3 2021.9.16(Thur): Adding basic background, Modified the text, adding advanced images, adding buttons, adding line through the words</li>
-        </ul>
-
-    <h1>TODO</h1>
-  
-        <ul>
-         <li style="color:red;">Week3 2021.9.16(Thur): Adding buttons (javascript), advanced images, and modified the text(css) </li>
-        <li style="color:red;">Week4 2021.9.16(Thur): Adding layout and navigation bar, advanced background, animaiton, button that do something</li>
-        </ul>
-  
-    <h1>HTML Links</h1>
-  
-     <p>The link of tutorial I am using:</p>
-     <a href="https://www.w3schools.com/html/">HTML Tutorial</a>
-  
-    <h1>My cat</h1>
-  
-<<<<<<< HEAD
-     <div class="gallery">
-         <img src="My cat/QingQing.png" alt="QingQing" style="width:124px;height:268px">
-         <div class="desc">Cat and Carrot</div>
-     </div>
-
-     <div class="gallery">
-        <img src="My cat/q1.jpg" alt="q1" style="width:268px;height:268px">
-        <div class="desc">When I first picked her up</div>
+    <div class="leftcolumn">
+        <div class="card">
+          <h2>About Me</h2>
+          <p2>Lufeng Chen</p2>    
+          <div>Mail: chenlf@udel.edu</div>  
+        </div>
+        <div class="card">
+            <h3>Change Log</h3>
+            <ul>
+                <li style="color:red;"><p1>Week2 2021.9.11(Thur): Adding headings, paragraphs, links, images and lists(html); Change the color of heading(css); Synchronize local files and web pages(git)</p1></li>
+                <li style="color:red;">Week3 2021.9.16(Thur): Adding basic background, Modified the text, adding advanced images, adding buttons, adding line through the words</li>
+                </ul>
+          </div>
+          <div class="card">
+            <h3>TODO</h3>
+            <ul>
+                <li style="color:red;">Week3 2021.9.16(Thur): Adding buttons (javascript), advanced images, and modified the text(css) </li>
+                <li style="color:red;">Week4 2021.9.16(Thur): Adding layout and navigation bar, advanced background, animaiton, button that do something</li>
+                </ul>
+          </div>
+          <div class="card">
+            <h3>My program</h3>
+            <p>My cat gallery</p>
+          </div>
     </div>
-
-    <div class="gallery">
-        <img src="My cat/q2.jpg" alt="q2" style="width:150px;height:200px">
-        <div class="desc">When I first picked her up</div>
-    </div>
-
-    <div class="gallery">
-        <img src="My cat/q3.jpg" alt="q3" style="width:187px;height:105px">
-        <div class="desc">After the cat is neutered</div>
-    </div>
-
-    <div class="gallery">
-        <img src="My cat/q4.jpg" alt="q4" style="width:200px;height:150px">
-        <div class="desc">And got angry.</div>
-    </div>
-
-    <div1><button type="button" autofocus onclick="alert('Nothing happened.')">Do not Press Me!</button></div1>
-=======
-  <img src="My cat/QingQing.png" alt="QingQing" style="width:124px;height:268px">
->>>>>>> a1d4b7b83816cc660a546a2b5c0798730ed5f62c
+    
+    <div class="rightcolumn">
+        <div class="card">
+            <h1>My Cat Photo Gallery</h1>
+            <div class="gallery">
+                <img src="My cat/QingQing.png" alt="QingQing" style="width:124px;height:268px">
+                <div class="desc">Cat and Carrot</div>
+                <img src="My cat/q1.jpg" alt="q1" style="width:268px;height:268px">
+                <div class="desc">When I first picked her up</div>
+                <img src="My cat/q2.jpg" alt="q2" style="width:150px;height:200px">
+                <div class="desc">When I first picked her up</div>
+                <img src="My cat/q3.jpg" alt="q3" style="width:187px;height:105px">
+                <div class="desc">After the cat is neutered</div>
+                <img src="My cat/q4.jpg" alt="q4" style="width:200px;height:150px">
+                <div class="desc">And got angry.</div>
+            </div>
+        </div>
+    </div>  
+  
   
 </body>
 
